@@ -9,3 +9,4 @@ def upabove():
     print("Like a diamond in the sky") 
 twinkle() 
 upabove()
+twinkle()
