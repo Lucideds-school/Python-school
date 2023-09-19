@@ -1,3 +1,3 @@
 My school github repo  
-I heavily dislike default idle because it has cancer  
+I heavily dislike default idle  
 go to my main github  
