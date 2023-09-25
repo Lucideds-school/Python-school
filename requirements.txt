@@ -1,0 +1,12 @@
+lxml
+mtranslate
+colorthief
+pyparsing
+sympy
+psutil
+emoji
+wikipedia
+crasync
+cr-py
+urban-async
+safygiphy
