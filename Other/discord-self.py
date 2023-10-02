@@ -124,8 +124,6 @@ class Selfbot(commands.Bot):
         ---------------
         Client is ready!
         ---------------
-        Author: verixx#7220
-        ---------------
         Logged in as: {self.user}
         User ID: {self.user.id}
         ---------------
