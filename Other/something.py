@@ -8,6 +8,7 @@ def make_password():
     pass_length = 8
     global random_pass
     random_pass = ''.join(random.choice(list) for i in range(pass_length))
+
 def user_create():
     global username
     global encr
@@ -32,6 +33,7 @@ def file_open():
             print("Password incorrect, please try again.")        
     else:
         print("Username not found, please try again.")
+
 make_password()
 user_create()
 file_open()
