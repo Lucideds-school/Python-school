@@ -1,7 +1,7 @@
 import base64
 import random
 import string
-f = open("/workspaces/Python-school/Other/something.txt", "r")
+f = open("/workspaces/Python-school/Other/PasswordFileOpen/PasswordFileOpen.txt", "r")
 
 def make_password():
     list = string.ascii_letters
